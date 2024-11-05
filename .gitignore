@@ -2,3 +2,5 @@
 .venv
 venv
 .git
+__pycache__
+console_cad_with_shapes.dxf
