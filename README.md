@@ -31,7 +31,12 @@ polyline (0, 0) (10, 10) (20, 0)
 2. (10, 10) is the second point to which a straight line will be drawn from the starting point (0, 0).
 3. (20, 0) — The third point to which a straight line will be drawn from the point (10, 10).
 
-How do I run this?
+<div align="center">
+    That's what we got!
+    <img src="https://raw.githubusercontent.com/YakovSava/console_cad/refs/heads/main/readme_example.png">
+</div>
+
+## How do I run this?
 
 It's simple!
 ```shell
@@ -40,3 +45,5 @@ cd console_cad
 make prestart
 make start
 ```
+
+<blockquote>In fact, I wrote this project as a by-product of the course work: to build the layout, I needed at least some kind of CAD, but I have Linux, and I need a convenient two-dimensional CAD, and I did not find anything better than to write my own little console CAD myself rather than suffer than with some kind of LibreCAD which I still don't understand</blockquote>
