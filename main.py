@@ -7,7 +7,6 @@ cad_console = CADConsole()
 if len(argv) > 1:
     lexer = Lexer(argv[1])
     for command in lexer.compile():
-        print(command)
         cad_console.execute_command(command)
     print("File processed!")
 else:

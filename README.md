@@ -33,6 +33,7 @@ polyline (0, 0) (10, 10) (20, 0)
 
 <div align="center">
     That's what we got!
+    <br>
     <img src="https://raw.githubusercontent.com/YakovSava/console_cad/refs/heads/main/readme_example.png">
 </div>
 
